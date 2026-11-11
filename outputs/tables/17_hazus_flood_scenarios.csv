@@ -1,0 +1,6 @@
+scenario,structures_with_bfe,structures_flooded_above_first_floor,structures_damaged,structures_over_50pct_damage,building_loss,contents_loss,total_loss,displaced_night_population
+1% annual chance flood (effective FIRM),46487,7644,16270,56,1115879836.9230542,2329033212.3113,3444913049.234354,21313.0
+1% annual chance flood + 1 ft sea-level rise,46487,9379,16891,69,1545809391.5278406,2870103668.8447247,4415913060.372565,25944.0
+1% annual chance flood + 2 ft sea-level rise,46487,9982,44033,79,3299624465.444894,4050342822.9398875,7349967288.384783,27762.0
+1% annual chance flood + 3 ft sea-level rise,46487,44827,45609,96,4204200511.359536,5493997100.865517,9698197612.225054,102079.0
+"1% annual chance flood, NSI default first floors (upper bound)",46487,31495,40664,171,3468158458.9855804,4601849190.880202,8070007649.865782,67428.0

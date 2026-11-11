@@ -1,0 +1,2 @@
+scenario,structures,median_pga_g,max_pga_g,expected_slight,expected_moderate,expected_extensive,expected_complete,building_loss,loss_ratio
+"1886 Charleston earthquake (M7.0, USGS ShakeMap) repeated today",166665,0.5861999999999999,1.129,26431.005966469987,53445.10880454483,39529.78730049717,40047.25774905374,39166890169.2009,0.4368636043219308

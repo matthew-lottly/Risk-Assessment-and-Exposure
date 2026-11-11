@@ -1,0 +1,28 @@
+occ_group,structures,value,zone
+Agricultural,461,451283757.76936936,"1% annual chance (A, AE, AO)"
+Agricultural,17,35518606.43107,Coastal high hazard (VE)
+Agricultural,1334,1401784376.7143865,Outside mapped flood hazard (X)
+Agricultural,356,356568919.7200639,0.2% annual chance (shaded X)
+Commercial,2182,7345320257.975655,"1% annual chance (A, AE, AO)"
+Commercial,84,143364182.90763935,Coastal high hazard (VE)
+Commercial,7988,20933893537.19715,Outside mapped flood hazard (X)
+Commercial,3113,7937449491.247834,0.2% annual chance (shaded X)
+Education,284,2532601116.3422174,"1% annual chance (A, AE, AO)"
+Education,8,17326625.2528608,Coastal high hazard (VE)
+Education,502,3756368087.678186,Outside mapped flood hazard (X)
+Education,315,2887080448.233525,0.2% annual chance (shaded X)
+Government,97,445393426.2606441,"1% annual chance (A, AE, AO)"
+Government,191,622923985.979804,Outside mapped flood hazard (X)
+Government,110,267021355.8889493,0.2% annual chance (shaded X)
+Industrial,320,2278856259.1959853,"1% annual chance (A, AE, AO)"
+Industrial,9,5016161.545507211,Coastal high hazard (VE)
+Industrial,964,7806410098.881678,Outside mapped flood hazard (X)
+Industrial,415,1884285870.5266533,0.2% annual chance (shaded X)
+Religious,215,356718215.6549128,"1% annual chance (A, AE, AO)"
+Religious,5,1819988.8846901993,Coastal high hazard (VE)
+Religious,531,1008765125.3789537,Outside mapped flood hazard (X)
+Religious,314,560573208.428938,0.2% annual chance (shaded X)
+Residential,43044,33020093697.885685,"1% annual chance (A, AE, AO)"
+Residential,659,627453706.5730009,Coastal high hazard (VE)
+Residential,66816,34431799848.40098,Outside mapped flood hazard (X)
+Residential,36331,22000018824.300236,0.2% annual chance (shaded X)
